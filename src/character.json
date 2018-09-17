@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1,
+      "name": "Bart",
+      "image": "./pics/Bart.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Chief Wiggum",
+      "image": "./pics/ChiefWiggum.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Hibbert",
+      "image": "./pics/DrHibbert.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Professor Frink",
+      "image": "./pics/Frink.gif"
+    },
+    {
+      "id": 5,
+      "name": "Groundskeeper Willie",
+      "image": "./pics/GroundsKeeperWillie.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Hank Scorpio",
+      "image": "./pics/HankScorpio.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Homer",
+      "image": "./pics/Homer.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Jeff Albertson",
+      "image": "./pics/JeffAlbertson.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Lisa",
+      "image": "./pics/Lisa.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Maggie",
+      "image": "./pics/Maggie.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Marge",
+      "image": "./pics/marge.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Milhouse Van Houten",
+      "image": "./pics/Milhouse.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Ms. Krabappel",
+      "image": "./pics/MsKrabappel.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Seymore Skinner",
+      "image": "./pics/PrincipalSkinner.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Snake",
+      "image": "./pics/Snake.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Superintendent Chalmers",
+      "image": "./pics/SuperintendentChalmers.jpg"
+    }
+]    
