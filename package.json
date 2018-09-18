@@ -2,9 +2,8 @@
   "name": "shuffleboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shimmeringdeep.github.io/Shuffleboard/",
+  "homepage": "https://ShimmeringDeep.github.io/Shuffleboard2/",
   "dependencies": {
-    "gh-pages": "^2.0.0",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
     "react-scripts": "1.1.5"
@@ -16,5 +15,8 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.0"
   }
 }
